@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDEs
+.idea/
+.vscode/
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+
+# Archivos locales de entorno
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
