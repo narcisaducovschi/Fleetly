@@ -79,3 +79,5 @@ Proyecto académico. La licencia de distribución se definirá según las necesi
 ---
 
 **Fleetly — Simplificando la gestión de tu flota.** 🚐
+
+Narcis Aducovschi y Matias Bolagay
