@@ -1,5 +1,6 @@
 # 🚐 Fleetly
 
+
 **Sistema de gestión de flotas de vehículos y trabajadores.**
 
 Fleetly es un proyecto de desarrollo de software orientado a la gestión y administración de flotas de vehículos. Su objetivo es centralizar la información de los vehículos y trabajadores de una empresa mediante un sistema compuesto por un ERP web y una aplicación móvil.
@@ -79,3 +80,5 @@ Proyecto académico. La licencia de distribución se definirá según las necesi
 ---
 
 **Fleetly — Simplificando la gestión de tu flota.** 🚐
+
+Narcis Aducovschi y Matias Bolagay.
