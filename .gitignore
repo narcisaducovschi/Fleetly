@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Laravel
+ERP/.env
+ERP/.env.*
+!ERP/.env.example
+ERP/vendor/
+ERP/node_modules/
+ERP/public/build/
+ERP/storage/*.key
+ERP/storage/framework/cache/
+ERP/storage/framework/sessions/
+ERP/storage/framework/views/
+ERP/bootstrap/cache/*.php
+
+# Xcode
+iOS/.build/
+iOS/DerivedData/
+iOS/*.xcodeproj/xcuserdata/
+iOS/*.xcworkspace/xcuserdata/
+iOS/*.xcuserstate
+
+# IDEs
+.idea/
+.vscode/
