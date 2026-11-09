@@ -1,3 +1,4 @@
+import '@inertiajs/core';
 import type { Auth } from '@/types/auth';
 
 declare module 'react' {
@@ -7,7 +8,7 @@ declare module 'react' {
 }
 
 declare module '@inertiajs/core' {
-    export interface InertiaConfig {
+    interface InertiaConfig {
         sharedPageProps: {
             name: string;
             auth: Auth;
